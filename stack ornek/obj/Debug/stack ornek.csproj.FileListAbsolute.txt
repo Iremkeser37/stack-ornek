@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\bin\Debug\stack ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\bin\Debug\stack ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\bin\Debug\stack ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\İREM10A\stack ornek\stack ornek\obj\Debug\stack ornek.pdb
